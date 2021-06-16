@@ -33,17 +33,17 @@
 
 		require_once($_SERVER['DOCUMENT_ROOT'] . '/mail/phpmailer/smtp.php');
 		const HOST = 'ssl://smtp.yandex.ru';
-		const LOGIN = 'boxesofbush@yandex.ru';
-		const PASS = '%C#C#mb5r@z@R6';
+		const LOGIN = 'vtopetop@yandex.ru';
+		const PASS = 'zz0304ZZvtopetop';
 		const PORT = '465';
 
 	// *** /SMTP *** //
 
   // Почта с которой будет приходить письмо
-	const SENDER = 'boxesofbush@yandex.ru';
+	const SENDER = 'vtopetop@yandex.ru';
 	
 	// Почта на которую будет приходить письмо
-	const CATCHER = 'narcisiwe@gmail.com';
+	const CATCHER = 'dima.d.v@list.ru';
 	
 	// Тема письма
 	const SUBJECT = 'Заявка с сайта';
